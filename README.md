@@ -46,14 +46,21 @@
 # Инструменты
 
 ## Charles Proxy
+Скриншоты работы в программе
 
 Перехват запроса, подмена в запросе и проверка доработки фронтенда
-
-![Alt-текст](https://drive.google.com/file/d/1SoKB1xY95c2Qf5fUkIajQILQzLAoyD88/view?usp=share_link)
+<img width="749" alt="Снимок экрана 2023-10-26 в 19 01 09" src="https://github.com/OlesyaKoroleva/QA-Engineer/assets/89070875/8324a9b6-eece-4fab-8e60-c197e71545fa">
 
 
 ## Postman
+Скриншоты работы в программе
+
+<img width="654" alt="Снимок экрана 2023-11-20 в 15 53 04" src="https://github.com/OlesyaKoroleva/QA-Engineer/assets/89070875/74d0debe-f6c7-4b28-9c4a-9a5f78d396e7">
+
 
 ## Android Studio
+Скриншоты работы в программе
+
+https://github.com/OlesyaKoroleva/QA-Engineer/assets/89070875/79584ec5-7054-4831-be1f-40911e6508a8
 
 
