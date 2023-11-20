@@ -7,7 +7,7 @@
 - [Чек-лист API](https://docs.google.com/spreadsheets/d/1ihAZ942cUpEeXIPz4T-dit0sLqC2uc8d46WXgj_sJiY/edit#gid=336872680)
 - [Таблица валидации полей](https://docs.google.com/spreadsheets/d/1ihAZ942cUpEeXIPz4T-dit0sLqC2uc8d46WXgj_sJiY/edit#gid=1540465171)
 - [Bug-report примеры](https://drive.google.com/drive/folders/1TxEiYQ9ugrQ-gNfHd8rdacrdD0eeXHPv?usp=share_link)
-- [Mindmap требований](https://docs.google.com/spreadsheets/d/1ihAZ942cUpEeXIPz4T-dit0sLqC2uc8d46WXgj_sJiY/edit#gid=1540465171)
+- [Mindmap требований](https://drive.google.com/file/d/1BG8TmrX3XcL44KKWhSMzN-wKfjFwhOJJ/view?usp=sharing)
 
 # Объекты тестирования
 
