@@ -49,7 +49,7 @@
 
 Перехват запроса, подмена в запросе и проверка доработки фронтенда
 
-![Alt-текст](https://drive.google.com/file/d/1SoKB1xY95c2Qf5fUkIajQILQzLAoyD88/view?usp=share_link "ssss")
+![Alt-текст](https://drive.google.com/file/d/1SoKB1xY95c2Qf5fUkIajQILQzLAoyD88/view?usp=share_link)
 
 
 ## Postman
